@@ -1,0 +1,5 @@
+outs:
+- md5: e5aef5b43aadc3f272058ad40576a9b5
+  size: 4902
+  hash: md5
+  path: main_code.ipynb
